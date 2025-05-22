@@ -4,7 +4,7 @@
             alt="Game dev" 
             title="Game dev github" 
             src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/gamepad-icon.gif"
-            width="64"
+            width="32"
         />
     </a>
     Eduardo Cristian
