@@ -16,7 +16,7 @@
 
 Meu nome é Eduardo Cristian, tenho 17 anos e sou natural do estado do Ceará. Atualmente, estou cursando o Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas. Sou apaixonado pela área de tecnologia e estou constantemente em busca de aprimoramento e novos aprendizados.
 
-<p align="center">
+<p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
