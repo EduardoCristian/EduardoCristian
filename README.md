@@ -1,4 +1,4 @@
-<p align="down">
+<p vertical-align="bottom">
     <a href="">
         <img 
             alt="Game dev" 
