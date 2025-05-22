@@ -21,7 +21,7 @@ Meu nome é Eduardo Cristian, tenho 17 anos e sou natural do estado do Ceará. A
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/youtube-icon.png"
+            src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/youtube-icon.gif"
             width="32"
         />
     </a>
