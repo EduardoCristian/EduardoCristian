@@ -7,8 +7,9 @@
             width="64"
         />
     </a>
-    Eduardo Cristian
+    
 <p/>
+Eduardo Cristian
 
     
 **Desenvolvedor de jogos**
