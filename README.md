@@ -29,12 +29,15 @@ Me chamo Eduardo Cristian, tenho 17 anos e sou natural do Ceará. estou cursando
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/github-icon.gif"
-        />
-    </a>
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/github-icon.gif"
+        width="150"   <!-- Define a largura da imagem -->
+        height="150"  <!-- Define a altura da imagem -->
+    />
+</a>
+
 </p>
 
 ---
