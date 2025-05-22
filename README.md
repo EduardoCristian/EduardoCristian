@@ -1,8 +1,10 @@
-# 👩🏻‍💻 Larissa Kich
+# 🎮 Eduardo Cristian
 
-**`Desenvolvedora FullStack`**
+**Desenvolvedor de jogos**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+
+Me chamo Eduardo Cristian, tenho 17 anos e sou natural do Ceará. estou cursando o ensino medio com curso técnico de desenvolvimento de sistemas. sou apaixonado pela minha área e estiu sempre procurando evoluir. 🏃‍♂️
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
