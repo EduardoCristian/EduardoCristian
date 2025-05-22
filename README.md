@@ -170,7 +170,7 @@ Meu nome é Eduardo Cristian, tenho 17 anos e sou natural do estado do Ceará. A
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
