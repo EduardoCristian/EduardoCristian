@@ -14,8 +14,7 @@
 **Desenvolvedor de jogos**
 
 
-Me chamo Eduardo Cristian, tenho 17 anos e sou natural do Ceará. estou cursando o ensino medio com curso técnico de desenvolvimento de sistemas. sou apaixonado pela minha área e estiu sempre procurando evoluir.
-
+Meu nome é Eduardo Cristian, tenho 17 anos e sou natural do estado do Ceará. Atualmente, estou cursando o Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas. Sou apaixonado pela área de tecnologia e estou constantemente em busca de aprimoramento e novos aprendizados.
 
 <p align="center">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
