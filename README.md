@@ -1,10 +1,10 @@
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="">
         <img 
             alt="Game dev" 
             title="Game dev github" 
             src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/gamepad-icon.gif"
-            width="32"
+            width="24"
         />
     </a>
     Eduardo Cristian
