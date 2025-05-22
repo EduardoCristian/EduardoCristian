@@ -32,7 +32,7 @@ Me chamo Eduardo Cristian, tenho 17 anos e sou natural do Ceará. estou cursando
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/github-icon.gif"
         />
     </a>
 </p>
