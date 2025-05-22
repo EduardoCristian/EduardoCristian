@@ -33,6 +33,14 @@ Meu nome é Eduardo Cristian, tenho 17 anos e sou natural do estado do Ceará. A
         width="128"
     />
 </a>
+<a href="https://github.com/EduardoCristian?tab=followers">
+    <img 
+        alt="Meu instagram" 
+        title="Me siga no instagram" 
+        src="https://github.com/EduardoCristian/EduardoCristian/blob/main/Assets/github-icon.gif"
+        width="128"
+    />
+</a>
 
 </p>
 
