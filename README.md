@@ -28,7 +28,7 @@ Me chamo Eduardo Cristian, tenho 17 anos e sou natural do Ceará. estou cursando
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/EduardoCristian?tab=followers">
     <img 
         alt="Seguidores" 
         title="Me siga no GitHub" 
