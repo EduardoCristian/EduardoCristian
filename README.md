@@ -9,11 +9,12 @@
     </a>
     Eduardo Cristian
 <p/>
+
     
 **Desenvolvedor de jogos**
 
 
-Me chamo Eduardo Cristian, tenho 17 anos e sou natural do Ceará. estou cursando o ensino medio com curso técnico de desenvolvimento de sistemas. sou apaixonado pela minha área e estiu sempre procurando evoluir. 🏃‍♂️
+Me chamo Eduardo Cristian, tenho 17 anos e sou natural do Ceará. estou cursando o ensino medio com curso técnico de desenvolvimento de sistemas. sou apaixonado pela minha área e estiu sempre procurando evoluir.
 
 
 <p align="center">
